@@ -2,11 +2,11 @@
 MakeItReal - Trabajo01
 
 ## Tabla de contenido
-[TOC]
-#Taller
-#Resultado
-#Recursos
-#Conclusiones
+
+- [Taller](#Taller)
+- [Resultado](#Resultado)
+- [Recursos](#Recursos)
+- [Conclusiones](#Conclusiones)
 ## Imagenes
 
 ![](./img/404-Not-Found-img-desktop.jpg)
